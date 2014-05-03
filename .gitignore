@@ -1,0 +1,12 @@
+*.log
+*.out
+*.pid
+*.sublime-project
+*.sublime-workspace
+*.tgz
+*.zip
+.DS_Store
+/.latest.id
+/.reports
+/coverage
+/node_modules
