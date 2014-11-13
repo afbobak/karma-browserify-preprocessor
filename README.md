@@ -1,4 +1,4 @@
-[deprecated] karma-browserifast
+[deprecated] karma-browserify-preprocessor
 ================
 
-karma-browserify is deprecated in favor of [karma-browserify](https://github.com/Nikku/karma-browserify). 
+karma-browserify-preprocessor is deprecated in favor of [karma-browserify](https://github.com/Nikku/karma-browserify). 
