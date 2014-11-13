@@ -1,7 +1,7 @@
 {
   "name": "karma-browserify-preprocessor",
-  "description": "Yet another Browserify plugin for Karma.",
-  "version": "0.1.0",
+  "description": "[deprecated] Yet another Browserify plugin for Karma.",
+  "version": "0.2.0",
   "private": true,
   "repository": {
     "type": "git",
